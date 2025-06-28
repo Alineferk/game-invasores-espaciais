@@ -1,4 +1,4 @@
-# 👾 Invasores Espaciais
+   # 👾 Invasores Espaciais
 
 Projeto de um jogo inspirado no clássico **Space Invaders**, desenvolvido por **Aline Ferk**, utilizando **HTML5**, **CSS3** e **JavaScript (Canvas API)**.
 
